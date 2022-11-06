@@ -16,12 +16,10 @@
 
 **Telegram - private**
 
-**Instagram - [@Balaselfie_bd](https://instagram.com/balaselfie_bd)**
-
 # Nothing here
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=selfie-bd&show_icons=true&title_color=733&icon_color=393&include_all_commits=true&theme=onedark&cache_seconds=86400)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=PrinceStarLord&show_icons=true&title_color=733&icon_color=393&include_all_commits=true&theme=onedark&cache_seconds=86400)
 
 # Language Used In Source Codes
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=selfie-bd&hide=html&layout=compact=true&theme=default)](https://github.com/Selfie-bd/selfie-bd)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceStarLord&hide=html&layout=compact=true&theme=default)](https://github.com/PrinceStarLord/PrinceStarLord)
