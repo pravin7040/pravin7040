@@ -1,14 +1,14 @@
 # Hai!
 
-**`MY SELF` > Balamurugan P M**
+**`MY SELF` > Tushar Patil**
 
-**`ABOUT ME` > studing BE.CSE**
+**`ABOUT ME` > Cmputer Science Student**
 
 **`SKILLS` > learning**
 
 **`PROGRAMMING LANGUAGE` > Python, Javascript(start learning)**
 
-**`WORKING` > Telegram Bot Making(>>editing) & Studying**
+**`WORKING` > AWS Arthitecture, Telegram Bot Making(>>editing) & Studying**
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1"/>
 
