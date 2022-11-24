@@ -2,11 +2,11 @@
 
 **`MY SELF` > Tushar Patil**
 
-**`ABOUT ME` > Cmputer Science Student**
+**`ABOUT ME` > Computer Science Student**
 
-**`SKILLS` > learning**
+**`SKILLS` > Learning**
 
-**`PROGRAMMING LANGUAGE` > Python, Javascript(start learning)**
+**`PROGRAMMING LANGUAGE` > Python(start learning)**
 
 **`WORKING` > AWS Arthitecture, Telegram Bot Making(>>editing) & Studying**
 
