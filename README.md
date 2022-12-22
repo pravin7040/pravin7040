@@ -12,7 +12,7 @@
 
 <br>
 <div align="left">
-<b>PROFILE VIEWERS ></b> <p align="center"><img align="center" src="https://profile-counter.glitch.me/{PrinceStarLord}/count.svg"/></p> 
+ <b><code>PROFILE VIEWERS </code>></b> <p align="center"><img align="center" src="https://profile-counter.glitch.me/{PrinceStarLord}/count.svg"/></p> 
 
 # Contact
 
