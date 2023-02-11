@@ -8,7 +8,7 @@
 
 **`PROGRAMMING LANGUAGE` > Python(start learning)**
 
-**`WORKING` > AWS Arthitecture, Telegram Bot Making(>>editing) & Studying**
+**`WORKING` > AWS Architect, Telegram Bot Making(>>editing) & Studying**
 
 <br>
 <div align="left">
