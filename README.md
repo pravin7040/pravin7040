@@ -23,8 +23,10 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=PrinceStarLord&show_icons=true&title_color=733&icon_color=393&include_all_commits=true&theme=onedark&cache_seconds=86400)
 
+<html>
 <div style="text-align: center;border: 2px solid #2b2d30;padding: 20px;border-radius: 10px;background-color: #32373c;width: 500px;height: 50px;display: flex;flex-direction: column;justify-content: center;align-items: center;">
         <a href="https://telegram.me/CineHud" style="background:#1E90FF;font-weight:bold;color:#fff;padding:8px 10px;border-radius:10px;width: 200px;text-decoration: none">
         <i class="fab fa-telegram"></i><b>&nbsp; Join Us On Telegram </b>
         </a>
     </div>
+</html>
